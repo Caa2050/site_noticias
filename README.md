@@ -1,1 +1,5 @@
-# site_noticias
+Esse programa foi desenvolvido usando:
+PHP
+XAMPP
+PHPmyadmin
+Materialize CSS
